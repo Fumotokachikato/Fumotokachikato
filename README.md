@@ -1,0 +1,2 @@
+# Fumotokachikato
+file.js
